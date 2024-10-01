@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#gameCanvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    cursor: crosshair;
+}
+
+/* Optional: Stil für den Blocker falls nicht inline im HTML */
+/* Bereits im <style> im index.html enthalten */
